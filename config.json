@@ -1,0 +1,27 @@
+{
+  "models": {
+    "gemini": {
+      "key": "AIzaSyBda4rCktL2dK7khMIMo4LHtrxza0ANQPE",
+      "model": "gemini-2.0-flash"
+    },
+    "gpt": {
+      "key": "YOUR_OPENAI_KEY",
+      "model": "gpt-4.1"
+    },
+    "grok": {
+      "key": "YOUR_XAI_KEY",
+      "model": "grok-beta"
+    },
+    "deepseek": {
+      "key": "YOUR_DEEPSEEK_KEY",
+      "model": "deepseek-chat"
+    },
+    "hf": {
+      "key": "YOUR_HF_TOKEN",
+      "model": "meta-llama/3-70b"
+    },
+    "ollama": {
+      "model": "qwen2.5:7b"
+    }
+  }
+}
