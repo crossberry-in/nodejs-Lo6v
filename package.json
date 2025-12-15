@@ -5,9 +5,7 @@
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
-    "dev": "nodemon server.js",
-    "build": "webpack",
-    "test": "jest"
+    "dev": "nodemon server.js"
   },
   "keywords": [],
   "author": "",
